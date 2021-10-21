@@ -1,0 +1,3 @@
+https://www.tensorflow.org/tutorials/generative/style_transfer?hl=en
+https://keras.io/examples/generative/neural_style_transfer/
+https://medium.com/tensorflow/neural-style-transfer-creating-art-with-deep-learning-using-tf-keras-and-eager-execution-7d541ac31398
